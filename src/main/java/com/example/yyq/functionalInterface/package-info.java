@@ -13,7 +13,7 @@
  *
  * 创建：
  *   函数式接口可以通过 lambda expressions(lambda表达式), method references(方法引用), or constructor references(构造函数引用) 创建
- *
+ *   （方法引用和构造函数引用是 lambda表达式的特殊方式）
  * java8自带的常用函数式接口:
  *   {@linkplain java.util.function.Predicate,java.util.function.Consumer,java.util.function.Function,java.util.function.Supplier}
  *   {@linkplain java.util.function.UnaryOperator,java.util.function.BinaryOperator}

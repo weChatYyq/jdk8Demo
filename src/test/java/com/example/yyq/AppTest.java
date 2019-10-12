@@ -1,20 +1,17 @@
-package com.example.yyq;
-
-import static org.junit.Assert.assertTrue;
-
-import org.junit.Test;
-
-/**
- * Unit test for simple App.
- */
-public class AppTest 
-{
-    /**
-     * Rigorous Test :-)
-     */
-    @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
-    }
-}
+//package com.example.yyq;
+//
+//
+///**
+// * Unit test for simple App.
+// */
+//public class AppTest
+//{
+//    /**
+//     * Rigorous Test :-)
+//     */
+//    @Test
+//    public void shouldAnswerWithTrue()
+//    {
+//        assertTrue( true );
+//    }
+//}

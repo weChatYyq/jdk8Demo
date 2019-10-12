@@ -1,5 +1,8 @@
 package com.example.yyq.entity;
 
+/**
+ * 学生
+ */
 public class Student {
     String name;
     Integer age;
